@@ -158,3 +158,10 @@ Desde `frontend/`:
     - Toggle de modo oscuro
     - Cambio de colores de las notas concurrente
     - Avatares por defecto para señalizar a los usuarios en sus distintas areas
+
+Video de demostracion
+
+
+https://github.com/user-attachments/assets/004fbf1f-abe3-4d3c-8a3c-fbed775b81ba
+
+
